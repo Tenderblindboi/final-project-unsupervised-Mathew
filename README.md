@@ -4,5 +4,5 @@ This is my unsupervised learning project on a set of pokemon card entires in var
 
 The data of the original is held in the tournaments.csv
 
-You ahve to run the pokemondatacleaner notebook to generate all the relevant code and visuals that will be used. It will also spit out a cleaned data set 
+You have to run the MathewPokemonUnsupervised notebook to generate all the relevant code and visuals that will be used. It will also spit out a cleaned data set 
 
